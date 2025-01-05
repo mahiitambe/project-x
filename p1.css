@@ -77,6 +77,12 @@ p{
     font-weight:1;
 
 }
+.child-4:hover{
+    border: 2px solid white;
+}
+.child-4:active{
+    background-color: #E5E7EB;
+}
 .ron p{
 
     text-align: center;
@@ -106,7 +112,12 @@ p{
     border-radius: 7%;
 
 }
-    
+.t1:hover{
+    background: rgb(0, 179, 255);
+}
+.t1:active{
+    background-color: #E5E7EB;
+}
 
 
 .text{
